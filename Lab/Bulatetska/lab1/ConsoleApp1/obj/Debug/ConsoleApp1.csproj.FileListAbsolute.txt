@@ -1,0 +1,7 @@
+D:\Databank\Profile\Documents\TestKNIT\Repository_45O\Lab\Bulatetska\lab1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Databank\Profile\Documents\TestKNIT\Repository_45O\Lab\Bulatetska\lab1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Databank\Profile\Documents\TestKNIT\Repository_45O\Lab\Bulatetska\lab1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Databank\Profile\Documents\TestKNIT\Repository_45O\Lab\Bulatetska\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Databank\Profile\Documents\TestKNIT\Repository_45O\Lab\Bulatetska\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Databank\Profile\Documents\TestKNIT\Repository_45O\Lab\Bulatetska\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Databank\Profile\Documents\TestKNIT\Repository_45O\Lab\Bulatetska\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
