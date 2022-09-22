@@ -1,0 +1,8 @@
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\bin\Debug\Lab1.1.exe.config
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\bin\Debug\Lab1.1.exe
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\bin\Debug\Lab1.1.pdb
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\obj\Debug\Lab1.1.csproj.AssemblyReference.cache
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\obj\Debug\Lab1.1.csproj.SuggestedBindingRedirects.cache
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\obj\Debug\Lab1.1.csproj.CoreCompileInputs.cache
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\obj\Debug\Lab1.1.exe
+D:\Інф-45.О\Омельковець\Lab\Omelkovets\Lab1\Lab1.1\obj\Debug\Lab1.1.pdb
