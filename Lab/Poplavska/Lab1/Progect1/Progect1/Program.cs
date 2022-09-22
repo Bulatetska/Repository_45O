@@ -10,8 +10,18 @@ namespace Progect1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.ReadLine();
+            int[] nam = { 5, 10, 7, 14, 6, 11, 5 };
+
+            int minValue = nam[0];
+
+            for (int i = 1; i < nam.Length; i++)
+            {
+                if (nam[i] < minValue)
+                {
+                    minValue = nam[i];
+                }
+            }
+            Console.WriteLine(minValue);
         }
     }
 }
