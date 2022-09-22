@@ -103,13 +103,13 @@ namespace ConsoleApp2
 using System.Linq;
 namespace ConsoleApp2
 {
-    struct Struct1
+    struct Student
         {
             private string value1;
             private string value2;
             private string value3;
         
-    public Struct1(string Value1, string Value2, string Value3)
+    public Student(string Value1, string Value2, string Value3)
         {
            value1 = Value1;
            value2 = Value2;
@@ -127,7 +127,7 @@ namespace ConsoleApp2
   {
     static void Main(string[] args)
     {
-      Struct1 V1 = new Struct1("value11", "value22", "value33");
+      Student V1 = new Student("value11", "value22", "value33");
       string Value1, Value2, Value3;
       Value1 = V1.Get_Value1();
       Value2 = V1.Get_Value2();
