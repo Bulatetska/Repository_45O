@@ -12,6 +12,7 @@ namespace Lab1._1
         {
             System.Console.WriteLine("Прив1т Св1т");
             System.Console.WriteLine("Hello World");
+            System.Console.WriteLine("Hola");
             System.Console.ReadLine();
         }
     }
