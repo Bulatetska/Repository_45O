@@ -1,0 +1,8 @@
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe.config
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\bin\Debug\Lab1.3.pdb
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.AssemblyReference.cache
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.SuggestedBindingRedirects.cache
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.CoreCompileInputs.cache
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.exe
+D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Laba1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.pdb
