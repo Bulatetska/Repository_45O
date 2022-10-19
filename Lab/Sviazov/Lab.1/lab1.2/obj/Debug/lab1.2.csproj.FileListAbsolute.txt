@@ -1,0 +1,8 @@
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\bin\Debug\lab1.2.exe.config
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\bin\Debug\lab1.2.exe
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\bin\Debug\lab1.2.pdb
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\obj\Debug\lab1.2.csproj.AssemblyReference.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\obj\Debug\lab1.2.csproj.SuggestedBindingRedirects.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\obj\Debug\lab1.2.csproj.CoreCompileInputs.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\obj\Debug\lab1.2.exe
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\Lab.1\lab1.2\obj\Debug\lab1.2.pdb
