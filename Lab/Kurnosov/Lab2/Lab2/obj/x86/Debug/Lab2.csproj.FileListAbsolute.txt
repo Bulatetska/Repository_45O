@@ -1,0 +1,6 @@
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab2\bin\Debug\Lab2.exe
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab2\obj\x86\Debug\Lab2.pdb
+F:\GitHub\Repository_45O\Lab\Kurnosov\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+F:\GitHub\Repository_45O\Lab\Kurnosov\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
