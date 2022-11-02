@@ -16,21 +16,23 @@ namespace ConsoleApplication1
                     Console.WriteLine("krante 3 i 5");
                     continue;
                 }
-                if (i % 3 == 0) { 
+                if (i % 3 == 0)
+                {
                     Console.WriteLine("kratne 3");
                     continue;
-            }
+                }
 
                 if (i % 5 == 0)
                 {
                     Console.WriteLine("kratne 5");
                     continue;
                 }
-                
+
 
                 Console.WriteLine(i);
-                
-            }Console.ReadLine();
+
+            }
+            Console.ReadLine();
         }
     }
 }
