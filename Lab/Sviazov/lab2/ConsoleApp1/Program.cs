@@ -9,29 +9,25 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("a: ");
+            Console.WriteLine("Введiть a: ");
             double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("b: ");
+            Console.WriteLine("Введiть b: ");
             double b = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("c: ");
+            Console.WriteLine("Введiть c: ");
             double c = Convert.ToDouble(Console.ReadLine());
 
-            double discriminant = (b * b) - (4 * a * c);
+            double p, S;
 
-            double x1, x2;
-            if (discriminant < 0)
+            if (a + b > c && a + c > b && b + c > a)
             {
-                Console.WriteLine("None root");
+                p = (a + b + c) / 2;
+                S = Math.Sqrt(p*(p - a)*(p - b)*(p - c));
+                Console.WriteLine("S={0}", S);
             }
             else
             {
-
-                x1 = (-b + Math.Sqrt(discriminant)) / (2 * a);
-                x2 = (-b - Math.Sqrt(discriminant)) / (2 * a);
-                Console.WriteLine("x1={0}, x2={1}", x1, x2);
+                Console.WriteLine("");
             }
-
-
             Console.ReadLine();
         }
     }
