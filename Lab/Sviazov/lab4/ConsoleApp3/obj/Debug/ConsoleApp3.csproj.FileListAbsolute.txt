@@ -1,0 +1,8 @@
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
