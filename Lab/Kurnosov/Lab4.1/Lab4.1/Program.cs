@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Lab4._1
-{
     class Program
     {
         static void Main(string[] args)
@@ -23,4 +21,3 @@ namespace Lab4._1
             System.Console.ReadLine();
         }
     }
-}
