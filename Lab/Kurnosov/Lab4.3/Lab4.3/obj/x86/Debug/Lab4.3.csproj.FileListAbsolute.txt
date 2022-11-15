@@ -1,0 +1,6 @@
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4.3\bin\Debug\Lab4.3.exe
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4.3\bin\Debug\Lab4.3.pdb
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4.3\obj\x86\Debug\Lab4.3.exe
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4.3\obj\x86\Debug\Lab4.3.pdb
+F:\GitHub\Repository_45O\Lab\Kurnosov\Lab4.3\Lab4.3\obj\x86\Debug\Lab4.3.exe
+F:\GitHub\Repository_45O\Lab\Kurnosov\Lab4.3\Lab4.3\obj\x86\Debug\Lab4.3.pdb
