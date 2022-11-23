@@ -12,6 +12,7 @@ namespace Lab4._1
     {
         static void Main(string[] args)
         {
+           
             int[] myArray = new int[10] ;
             Random rand = new Random();
 
@@ -22,6 +23,9 @@ namespace Lab4._1
              }
             int Max = myArray.Max<int>();
             Console.WriteLine("Максимальне число = "+ Max);
+            Console.WriteLine("Кількість повторень = " + myArray.Count(n=> n == Max));
+            int pos = Array.IndexOf(myArray, Max);
+            Console.WriteLine("Порядковий номер = " + pos);
             Console.ReadLine ();
         }
     }
