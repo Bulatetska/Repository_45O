@@ -1,8 +1,0 @@
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\obj\Debug\Lab4.1.csproj.AssemblyReference.cache
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\obj\Debug\Lab4.1.csproj.SuggestedBindingRedirects.cache
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\obj\Debug\Lab4.1.csproj.CoreCompileInputs.cache
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\bin\Debug\Lab4.1.exe.config
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\bin\Debug\Lab4.1.exe
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\bin\Debug\Lab4.1.pdb
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\obj\Debug\Lab4.1.exe
-D:\Inf-45.O\Poplavska\Repository_45O\Lab\Poplavska\Lab4\Lab4.1\Lab4.1\obj\Debug\Lab4.1.pdb
