@@ -1,0 +1,4 @@
+C:\Users\alina\OneDrive\Документи\Repository_45O\Lab\Poplavska\Lab5\Lab5.2\Lab5.2\bin\Debug\Lab5.2.exe
+C:\Users\alina\OneDrive\Документи\Repository_45O\Lab\Poplavska\Lab5\Lab5.2\Lab5.2\bin\Debug\Lab5.2.pdb
+C:\Users\alina\OneDrive\Документи\Repository_45O\Lab\Poplavska\Lab5\Lab5.2\Lab5.2\obj\x86\Debug\Lab5.2.exe
+C:\Users\alina\OneDrive\Документи\Repository_45O\Lab\Poplavska\Lab5\Lab5.2\Lab5.2\obj\x86\Debug\Lab5.2.pdb
