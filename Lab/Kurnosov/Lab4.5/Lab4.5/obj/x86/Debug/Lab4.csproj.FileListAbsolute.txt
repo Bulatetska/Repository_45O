@@ -1,0 +1,4 @@
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4\bin\Debug\Lab4.exe
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\Volodymyr\AppData\Local\Temporary Projects\Lab4\obj\x86\Debug\Lab4.pdb
