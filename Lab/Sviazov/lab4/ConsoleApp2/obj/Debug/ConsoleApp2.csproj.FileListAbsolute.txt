@@ -1,0 +1,8 @@
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\inf45O\Sviazov\Repository_45O\Lab\Sviazov\lab4\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
