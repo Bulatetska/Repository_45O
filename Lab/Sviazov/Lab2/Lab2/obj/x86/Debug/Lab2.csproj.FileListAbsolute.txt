@@ -1,0 +1,4 @@
+D:\Net C# reposy\Repository_45O\Lab\Sviazov\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Net C# reposy\Repository_45O\Lab\Sviazov\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Net C# reposy\Repository_45O\Lab\Sviazov\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+D:\Net C# reposy\Repository_45O\Lab\Sviazov\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
